@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27552615/README.md)
 # 🍔 Swiggy Food Orders – Data Analysis Project
 
 A comprehensive dataset of Swiggy food delivery orders across India, covering **197,430 order records** from **28 cities** over an 8-month period (January–August 2025). This project is designed for exploratory data analysis, business intelligence, and dashboard reporting on food delivery trends.
